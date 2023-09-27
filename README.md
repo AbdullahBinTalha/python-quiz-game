@@ -322,3 +322,49 @@ else:
 
         else:
             print('!you can only select from the given choices!')
+
+# The admin file
+
+Here are some questions that you can be added from each group 
+--------------------SCIENCE---------------------------------------
+Q1:what is the symbol of iron?
+a:Na          b:I
+c:Fe          c:c
+------------------------------------------------------------------
+Q2:what is the name of the scientists who discovered Gravity?
+a:Aelbert Einstien            b:Sir Frankestien
+c:Isaac Newton                d:Charles Babbbage
+------------------------------------------------------------------
+Q3:how many chambers of heart are there?
+a:6                    b:2
+c:3                    d:4
+------------------------------------------------------------------
+Q4:you can get vitamin C from?
+a:fish               b:sunlight
+c:beef               d:none
+------------------------------------------------------------------
+Q5:lava is an example of?
+a:solid              b:plasma
+c:liquid             d:gas
+
+--------------------GENERAL KNOWLEDGE---------------------------------------
+Q1:which  is national flower of Pakistan?
+a:Jasmine                 b:Rose
+c:sun flower              d:none 
+------------------------------------------------------------------
+Q2:What is the national animal of Wales?
+a:Unicorn                 b:Wale
+c:Dragon                  c:Megladon
+------------------------------------------------------------------
+Q3:one nibble is equals to?
+a:4 bits               b:6 bits
+c:8 bits               d:16 bits
+------------------------------------------------------------------
+Q4:Electric motor was invented by?
+a:Sir Isaac Newton          b:Faraday
+c:Rutherford                c:Henry Cevendish
+------------------------------------------------------------------
+Q5:Battery was invented by?
+a:Alessandro Volta             b:Micheal Faraday
+c:Georg ohm                    d:none
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX#
